@@ -34,13 +34,13 @@
 ---
 
 ##  Overview
-<p align="center">
+<p align="justify">
 The Health Insurance Cross Sell Prediction project aimed to develop a classification model to predict health insurance policyholders' interest in subscribing to vehicle insurance. The project was led by Team Data 200 from Rakamin Academy, with Theofilus Arifin as the project leader. The dataset used in the project contained demographic and behavioral information of health insurance customers related to their interest in vehicle insurance. The team conducted an exploratory data analysis (EDA) to gain insights into the relationships between various features and the customers' interest in vehicle insurance. The EDA revealed that middle-aged adults, both male and female, showed the highest interest in vehicle insurance, with approximately 17.3% and 18.7% interest rates, respectively. Furthermore, the analysis showed that customers who had not previously subscribed to vehicle insurance exhibited a higher interest rate of 22.5%, while those who had previously subscribed showed minimal interest. These insights were crucial in understanding customer behavior and forming the basis for the subsequent modeling phase.
 </p>
-<p align="center">
+<p align="justify">
 In terms of preprocessing, the team performed data cleansing to handle missing values and duplicates in the dataset. Feature transformation was carried out to handle class imbalance, feature encoding, and outlier handling. Feature extraction involved creating new features based on age categories, the interaction between vehicle damage and age, and the ratio of annual premium to age. Feature selection was conducted using Pearson correlation and mutual information to identify the most influential features for modeling. The selected features included previously insured, region code, vehicle age, vehicle damage, policy sales channel, age category, and vehicle damage age interaction. These features were then used for the modeling phase.
 </p>
-<p align="center">
+<p align="justify">
 The modeling phase involved comparing the performance of various machine learning models, including XGBoost, Random Forest, Adaboost, LightGBM, CatBoost, and KNN. The models were evaluated based on metrics such as accuracy, precision, recall, F1 score, and mean ROC-AUC. The results indicated that the models exhibited similar performance across the metrics. Furthermore, the feature importance analysis revealed that the "previously insured" feature had the most significant influence on customer interest in vehicle insurance. Based on these findings, the team recommended prioritizing customers who had not previously subscribed to vehicle insurance, focusing on region code 28, and targeting customers with a medium premium to age ratio for marketing efforts. The team's simulation showed that using the predictive model for marketing efforts increased the conversion rate by 47.1%, leading to a significant improvement in revenue and a reduction in customer acquisition costs.
 </p>
 
