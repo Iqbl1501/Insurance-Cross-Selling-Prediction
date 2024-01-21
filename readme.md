@@ -158,4 +158,8 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 - [@theofilusarifin](https://github.com/theofilusarifin)
 - [@Iqbl1501](https://github.com/Iqbl1501)
 - [@ramlanapriyansyah](https://github.com/ramlanapriyansyah)
+- [@ujangpian97](https://github.com/ujangpian97)
+- [@christoferbryan](https://github.com/christoferbryan)
+- [@hanifahar29](https://github.com/hanifahar29)
+- [@IphenTephen](https://github.com/IphenTephen)
 ---
