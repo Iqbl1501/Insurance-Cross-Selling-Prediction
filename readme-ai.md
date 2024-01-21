@@ -1,21 +1,23 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+  <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" width="100" />
 </p>
 <p align="center">
     <h1 align="center">INSURANCE-CROSS-SELLING-PREDICTION</h1>
 </p>
 <p align="center">
-    <em>Error generating text for slogan: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401</em>
+    <em><code>► INSERT-TEXT-HERE</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=default&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=default&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=default&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=flat&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=flat&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
-	<!-- default option, no dependency badges. -->
+		<em>Developed with the software and tools below.</em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
 </p>
 <hr>
 
@@ -38,15 +40,13 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 
 ##  Overview
 
-Error generating text for overview: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+<code>► INSERT-TEXT-HERE</code>
 
 ---
 
 ##  Features
 
-Error generating text for features: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+<code>► INSERT-TEXT-HERE</code>
 
 ---
 
@@ -75,37 +75,26 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 
 <details closed><summary>Code</summary>
 
-| File                                                                                                                                                  | Summary                                                                                                                                                                                                                                     |
-| ---                                                                                                                                                   | ---                                                                                                                                                                                                                                         |
-| [EDA - Data200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\EDA - Data200.ipynb)                     | Error generating text for Code\EDA - Data200.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401           |
-| [modeling - Data 200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\modeling - Data 200.ipynb)         | Error generating text for Code\modeling - Data 200.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401     |
-| [preprocessing - Data200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\preprocessing - Data200.ipynb) | Error generating text for Code\preprocessing - Data200.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401 |
+| File                                                                                                                                                  | Summary                         |
+| ---                                                                                                                                                   | ---                             |
+| [EDA - Data200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\EDA - Data200.ipynb)                     | <code>► INSERT-TEXT-HERE</code> |
+| [modeling - Data 200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\modeling - Data 200.ipynb)         | <code>► INSERT-TEXT-HERE</code> |
+| [preprocessing - Data200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\preprocessing - Data200.ipynb) | <code>► INSERT-TEXT-HERE</code> |
 
 </details>
 
 <details closed><summary>Code.Modeling</summary>
 
-| File                                                                                                                                                             | Summary                                                                                                                                                                                                                                               |
-| ---                                                                                                                                                              | ---                                                                                                                                                                                                                                                   |
-| [AdaBoostClassifier_Ujang.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\AdaBoostClassifier_Ujang.ipynb) | Error generating text for Code\Modeling\AdaBoostClassifier_Ujang.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401 |
-| [Catboost_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Catboost_Arifin.ipynb)                   | Error generating text for Code\Modeling\Catboost_Arifin.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401          |
-| [decision trees_Ramlan.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\decision trees_Ramlan.ipynb)       | Error generating text for Code\Modeling\decision trees_Ramlan.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401    |
-| [k_nearest_neighbors.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\k_nearest_neighbors.ipynb)           | Error generating text for Code\Modeling\k_nearest_neighbors.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401      |
-| [Lightgbm_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Lightgbm_Arifin.ipynb)                   | Error generating text for Code\Modeling\Lightgbm_Arifin.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401          |
-| [LogisticRegression.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\LogisticRegression.ipynb)             | Error generating text for Code\Modeling\LogisticRegression.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401       |
-| [Random_Forest_iqbal.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Random_Forest_iqbal.ipynb)           | Error generating text for Code\Modeling\Random_Forest_iqbal.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401      |
-| [XGBoost_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\XGBoost_Arifin.ipynb)                     | Error generating text for Code\Modeling\XGBoost_Arifin.ipynb: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401           |
+| File                                                                                                                                                             | Summary                         |
+| ---                                                                                                                                                              | ---                             |
+| [AdaBoostClassifier_Ujang.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\AdaBoostClassifier_Ujang.ipynb) | <code>► INSERT-TEXT-HERE</code> |
+| [Catboost_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Catboost_Arifin.ipynb)                   | <code>► INSERT-TEXT-HERE</code> |
+| [decision trees_Ramlan.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\decision trees_Ramlan.ipynb)       | <code>► INSERT-TEXT-HERE</code> |
+| [k_nearest_neighbors.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\k_nearest_neighbors.ipynb)           | <code>► INSERT-TEXT-HERE</code> |
+| [Lightgbm_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Lightgbm_Arifin.ipynb)                   | <code>► INSERT-TEXT-HERE</code> |
+| [LogisticRegression.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\LogisticRegression.ipynb)             | <code>► INSERT-TEXT-HERE</code> |
+| [Random_Forest_iqbal.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Random_Forest_iqbal.ipynb)           | <code>► INSERT-TEXT-HERE</code> |
+| [XGBoost_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\XGBoost_Arifin.ipynb)                     | <code>► INSERT-TEXT-HERE</code> |
 
 </details>
 
