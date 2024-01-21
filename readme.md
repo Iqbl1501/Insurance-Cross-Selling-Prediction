@@ -5,7 +5,7 @@
     <h1 align="center">INSURANCE-CROSS-SELLING-PREDICTION</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em><code>Data 200</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/Theofilusarifin/Insurance-Cross-Selling-Prediction?style=flat&color=0080ff" alt="license">
@@ -24,29 +24,22 @@
 ##  Quick Links
 
 > - [ Overview](#-overview)
-> - [ Features](#-features)
 > - [ Repository Structure](#-repository-structure)
-> - [ Modules](#-modules)
 > - [ Getting Started](#-getting-started)
 >   - [ Installation](#-installation)
 >   - [ Running Insurance-Cross-Selling-Prediction](#-running-Insurance-Cross-Selling-Prediction)
->   - [ Tests](#-tests)
-> - [ Project Roadmap](#-project-roadmap)
 > - [ Contributing](#-contributing)
-> - [ License](#-license)
 > - [ Acknowledgments](#-acknowledgments)
 
 ---
 
 ##  Overview
 
-<code>► INSERT-TEXT-HERE</code>
+<code>The Health Insurance Cross Sell Prediction project aimed to develop a classification model to predict health insurance policyholders' interest in subscribing to vehicle insurance. The project was led by Team Data 200 from Rakamin Academy, with Theofilus Arifin as the project leader. The dataset used in the project contained demographic and behavioral information of health insurance customers related to their interest in vehicle insurance. The team conducted an exploratory data analysis (EDA) to gain insights into the relationships between various features and the customers' interest in vehicle insurance. The EDA revealed that middle-aged adults, both male and female, showed the highest interest in vehicle insurance, with approximately 17.3% and 18.7% interest rates, respectively. Furthermore, the analysis showed that customers who had not previously subscribed to vehicle insurance exhibited a higher interest rate of 22.5%, while those who had previously subscribed showed minimal interest. These insights were crucial in understanding customer behavior and forming the basis for the subsequent modeling phase.
 
----
+In terms of preprocessing, the team performed data cleansing to handle missing values and duplicates in the dataset. Feature transformation was carried out to handle class imbalance, feature encoding, and outlier handling. Feature extraction involved creating new features based on age categories, the interaction between vehicle damage and age, and the ratio of annual premium to age. Feature selection was conducted using Pearson correlation and mutual information to identify the most influential features for modeling. The selected features included previously insured, region code, vehicle age, vehicle damage, policy sales channel, age category, and vehicle damage age interaction. These features were then used for the modeling phase.
 
-##  Features
-
-<code>► INSERT-TEXT-HERE</code>
+The modeling phase involved comparing the performance of various machine learning models, including XGBoost, Random Forest, Adaboost, LightGBM, CatBoost, and KNN. The models were evaluated based on metrics such as accuracy, precision, recall, F1 score, and mean ROC-AUC. The results indicated that the models exhibited similar performance across the metrics. Furthermore, the feature importance analysis revealed that the "previously insured" feature had the most significant influence on customer interest in vehicle insurance. Based on these findings, the team recommended prioritizing customers who had not previously subscribed to vehicle insurance, focusing on region code 28, and targeting customers with a medium premium to age ratio for marketing efforts. The team's simulation showed that using the predictive model for marketing efforts increased the conversion rate by 47.1%, leading to a significant improvement in revenue and a reduction in customer acquisition costs.</code>
 
 ---
 
@@ -71,42 +64,13 @@
 
 ---
 
-##  Modules
-
-<details closed><summary>Code</summary>
-
-| File                                                                                                                                                  | Summary                         |
-| ---                                                                                                                                                   | ---                             |
-| [EDA - Data200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\EDA - Data200.ipynb)                     | <code>► INSERT-TEXT-HERE</code> |
-| [modeling - Data 200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\modeling - Data 200.ipynb)         | <code>► INSERT-TEXT-HERE</code> |
-| [preprocessing - Data200.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\preprocessing - Data200.ipynb) | <code>► INSERT-TEXT-HERE</code> |
-
-</details>
-
-<details closed><summary>Code.Modeling</summary>
-
-| File                                                                                                                                                             | Summary                         |
-| ---                                                                                                                                                              | ---                             |
-| [AdaBoostClassifier_Ujang.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\AdaBoostClassifier_Ujang.ipynb) | <code>► INSERT-TEXT-HERE</code> |
-| [Catboost_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Catboost_Arifin.ipynb)                   | <code>► INSERT-TEXT-HERE</code> |
-| [decision trees_Ramlan.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\decision trees_Ramlan.ipynb)       | <code>► INSERT-TEXT-HERE</code> |
-| [k_nearest_neighbors.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\k_nearest_neighbors.ipynb)           | <code>► INSERT-TEXT-HERE</code> |
-| [Lightgbm_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Lightgbm_Arifin.ipynb)                   | <code>► INSERT-TEXT-HERE</code> |
-| [LogisticRegression.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\LogisticRegression.ipynb)             | <code>► INSERT-TEXT-HERE</code> |
-| [Random_Forest_iqbal.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\Random_Forest_iqbal.ipynb)           | <code>► INSERT-TEXT-HERE</code> |
-| [XGBoost_Arifin.ipynb](https://github.com/Theofilusarifin/Insurance-Cross-Selling-Prediction/blob/master/Code\Modeling\XGBoost_Arifin.ipynb)                     | <code>► INSERT-TEXT-HERE</code> |
-
-</details>
-
----
-
 ##  Getting Started
 
 ***Requirements***
 
 Ensure you have the following dependencies installed on your system:
 
-* **JupyterNotebook**: `version x.y.z`
+* **JupyterNotebook**: `python 3.9`
 
 ###  Installation
 
@@ -146,13 +110,6 @@ pytest notebook_test.py
 
 ---
 
-##  Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
-
----
 
 ##  Contributing
 
@@ -188,12 +145,6 @@ Contributions are welcome! Here are several ways you can contribute:
 Once your PR is reviewed and approved, it will be merged into the main branch.
 
 </details>
-
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
