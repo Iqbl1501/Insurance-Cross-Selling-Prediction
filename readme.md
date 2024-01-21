@@ -155,7 +155,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ##  Acknowledgments
 
-- (@theofilusarifin)[https://github.com/theofilusarifin]
-- (@Iqbl1501)[https://github.com/Iqbl1501]
-- (@ramlanapriyansyah)[https://github.com/ramlanapriyansyah]
+- [@theofilusarifin](https://github.com/theofilusarifin)
+- [@Iqbl1501](https://github.com/Iqbl1501)
+- [@ramlanapriyansyah](https://github.com/ramlanapriyansyah)
 ---
